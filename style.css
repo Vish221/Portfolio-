@@ -77,13 +77,13 @@ li {
   transform-origin: top left;
   width: 2rem;
   height: 0.3rem;
-  transform: rotate(37.5deg);
+  transform: rotate(51deg);
 }
 #nav:checked ~ .topbar .menu .spacep {
   transform-origin: bottom left;
   width: 2rem;
   height: 0.3rem;
-  transform: rotate(-37.5deg);
+  transform: rotate(-51deg);
 }
 .content {
   display: flex;

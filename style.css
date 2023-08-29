@@ -541,6 +541,11 @@ font-weight: 900;
 .card{
   width:43vw;
 }
+.Icon{
+  height:80px;
+  width:80px;
+  border-radius:50%;
+}
 }
 @media screen and (min-width: 1025px){
   header{
@@ -674,8 +679,8 @@ font-weight: 900;
     width:30vh;
   }
   .Icon{
-    height:90px;
-    width:90px;
+    height:80px;
+    width:80px;
     border-radius:50%;
   }
   .top{
